@@ -12,7 +12,7 @@ https://github.com/denizjcan/Firefox-Safari-15-Theme/releases/tag/Download
 
 ## 1) How to install Safari 15 theme:
 
-	1. Write about:config in your adress bar and accept the risk prompt to continue.
+	1. Type `about:config` in your adress bar and accept the risk prompt to continue.
 	 	
 	2. Search `toolkit.legacyUserProfileCustomizations.stylesheets` set the value to true by double click
 	
