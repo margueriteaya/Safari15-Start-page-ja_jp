@@ -39,5 +39,5 @@ https://drive.google.com/file/d/1BcFr5fgouuSwQ-e7icRSdUYI-DvcGiG_/view?usp=share
 	
 
 
-## This theme is based on Oneline Proton, check it too <3 :
+## This theme is based on Oneline Proton, check it out too <3 :
 https://github.com/newmanls/OnelineProton
