@@ -10,7 +10,7 @@ A firefox theme that emulates the Safari 15 interface and new tab page
 ## Install
 https://github.com/denizjcan/Firefox-Safari-15-Theme/releases/tag/Download
 
-## How to install Safari 15 theme:
+## 1) How to install Safari 15 theme:
 
 	1. Write about:config in your adress bar and accept the risk prompt to continue.
 	 	
@@ -28,7 +28,7 @@ https://github.com/denizjcan/Firefox-Safari-15-Theme/releases/tag/Download
 	https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-dark/
 	
 
-### How to set-up Safari 15 New Tab Page:
+### 2) How to set-up Safari 15 New Tab Page:
 
 Tutorial Video:
 https://drive.google.com/file/d/1BcFr5fgouuSwQ-e7icRSdUYI-DvcGiG_/view?usp=share_link
