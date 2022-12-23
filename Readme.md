@@ -2,6 +2,11 @@
 
 A firefox theme that emulates the Safari 15 interface and new tab page
 
+<picture>
+  <img src="https://github.com/denizjcan/Firefox-Safari-15-Theme/blob/main/Resources/safari.png?raw=true">
+</picture>
+
+
 ## Install
 https://github.com/denizjcan/Firefox-Safari-15-Theme/releases/tag/Download
 
@@ -19,23 +24,20 @@ https://github.com/denizjcan/Firefox-Safari-15-Theme/releases/tag/Download
 	
 	6. Restart Firefox.
 	
+	7. Install this color theme to get the correct colors.
+	https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-dark/
+	
 
 ### How to set-up Safari 15 New Tab Page:
 
-
-
-## Screenshots
+Tutorial Video:
+https://drive.google.com/file/d/1BcFr5fgouuSwQ-e7icRSdUYI-DvcGiG_/view?usp=share_link
 
 <picture>
-  <img src="https://i.imgur.com/fC6V4vJ.png">
-</picture>
-<picture>
-  <img src="https://i.imgur.com/QzgKM27.png">
-</picture>
-<picture>
-  <img src="https://i.imgur.com/mCwP6i4.png">
+  <img src="https://github.com/denizjcan/Firefox-Safari-15-Theme/blob/main/Resources/theme.png?raw=true">
 </picture>
 	
 
 
-
+## This theme is based on Oneline Proton, check it too <3 :
+https://github.com/newmanls/OnelineProton
