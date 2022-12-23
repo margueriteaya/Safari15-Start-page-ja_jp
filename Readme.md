@@ -1,4 +1,4 @@
-#  Firefox-Safari-15-Theme and New Tab Page
+#  Firefox 'Safari 15' Theme and New Tab Page
 
 A firefox theme that emulates the Safari 15 interface and new tab page
 
