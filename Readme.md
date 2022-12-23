@@ -28,7 +28,7 @@ https://github.com/denizjcan/Firefox-Safari-15-Theme/releases/tag/Download
 	https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-dark/
 	
 
-### 2) How to set-up Safari 15 New Tab Page:
+## 2) How to set-up Safari 15 New Tab Page:
 
 Tutorial Video:
 https://drive.google.com/file/d/1BcFr5fgouuSwQ-e7icRSdUYI-DvcGiG_/view?usp=share_link
