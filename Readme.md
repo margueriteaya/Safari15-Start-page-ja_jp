@@ -1,6 +1,6 @@
 #  Firefox 'Safari 15' Theme and New Tab Page
 
-A firefox theme that emulates the Safari 15 interface and new tab page
+A Firefox theme that emulates the Safari 15 interface and new tab page
 
 <picture>
   <img src="https://github.com/denizjcan/Firefox-Safari-15-Theme/blob/main/Resources/safari.png?raw=true">
