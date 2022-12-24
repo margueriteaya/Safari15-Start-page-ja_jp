@@ -27,7 +27,7 @@ https://github.com/denizjcan/Firefox-Safari-15-Theme/releases/tag/Download
 	7. Install this color theme to get the correct colors.
 	https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-dark/
 ### Important:
-Install the theme below to get the correct Safari colors
+Install this theme to get the correct Safari colors
 https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-dark/
 
 ## 2) How to set-up Safari 15 New Tab Page:
