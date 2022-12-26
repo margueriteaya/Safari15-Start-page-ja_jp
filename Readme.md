@@ -7,7 +7,6 @@ A Firefox theme that emulates the Safari 15 interface and new tab page
 </picture>
 
 ## Install
-==========
 https://github.com/denizjcan/Firefox-Safari-15-Theme/releases/tag/Download
 
 ## 1) How to install Safari 15 theme:
