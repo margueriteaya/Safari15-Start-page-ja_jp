@@ -28,7 +28,7 @@ https://github.com/denizjcan/Firefox-Safari-15-Theme/releases/tag/Download
 	
 	https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-dark/
 	https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-light/
-### Important:
+### Important - Theme Colors:
 Install this theme to get the correct Safari colors:
 Dark Mode: https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-dark/
 
