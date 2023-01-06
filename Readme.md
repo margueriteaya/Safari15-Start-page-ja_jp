@@ -23,7 +23,7 @@ https://github.com/denizjcan/Firefox-Safari-15-Theme/releases/
 	
 	6. Restart Firefox.
 	
-	7. Install this color themes to get the correct colors.
+	7. Install these color themes to get the correct colors.
 	
 	https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-dark/
 	https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-light/
