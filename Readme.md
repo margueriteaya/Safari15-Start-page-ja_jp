@@ -40,6 +40,10 @@ Install "automaticDark" addon and set it like this: https://addons.mozilla.org/t
 </picture>
   <img src="https://github.com/denizjcan/Firefox-Safari-15-Theme/blob/main/Resources/dark%20and%20light%20mini.png?raw=true">
 </picture>
+or
+### To enable adaptive theme colors like Safari:
+https://addons.mozilla.org/tr/firefox/addon/adaptive-tab-bar-color/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+
 ## 2) How to set-up Safari 15 New Tab Page:
 
 Tutorial Video:
