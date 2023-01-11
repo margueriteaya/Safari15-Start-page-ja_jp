@@ -29,10 +29,9 @@ I recommend using "Adaptive Tab Bar Color" add-on in combination with "Darkreade
 https://addons.mozilla.org/tr/firefox/addon/adaptive-tab-bar-color/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
 
 - DarkReader: Firefox theme colors (need Adaptive Tab Bar Color to work) and websites automatically switch to dark mode.
-https://addons.mozilla.org/tr/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+https://addons.mozilla.org/tr/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search 
 
-https://user-images.githubusercontent.com/22716602/211825286-d46e1188-3e9c-48d2-baa2-11f3c6273feb.mov
-
+https://user-images.githubusercontent.com/22716602/211837027-a72f1369-6695-43f3-90f3-86f310059750.mov
 ## 2.1) Theme colors 2: If you want to use fixed dark/light theme colors:
 Install these themes to get the correct Safari colors:
 
