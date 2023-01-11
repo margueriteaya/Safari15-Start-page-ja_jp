@@ -21,13 +21,19 @@ A Firefox theme that emulates the Safari 15 interface and new tab page
 	5. Create a folder called `chrome` and paste `userChrome.css & window` in Firefox Safari 15 Theme folder to this folder.
 	
 	6. Restart Firefox.
+	
+Now follow step 2
 ___
 
 ## 2) Theme colors 1: (Recommended) Enable adaptive theme colors like Safari:
-I recommend using DarkReader for automatic dark mode in combination with this addon so that both Firefox theme color and website colors will be dark automatically.
+I recommend using "Adaptive Tab Bar Color" add-on in combination with "Darkreader" add-on.
 
-- Adaptive theme colors: https://addons.mozilla.org/tr/firefox/addon/adaptive-tab-bar-color/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
-- Auto dark mode: https://addons.mozilla.org/tr/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+- Adaptive Tab Bar Color: Firefox theme colors change according to the website you are on, as in Safari.  
+https://addons.mozilla.org/tr/firefox/addon/adaptive-tab-bar-color/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+
+- DarkReader: Firefox theme colors (need Adaptive Tab Bar Color to work) and websites automatically switch to dark mode.
+https://addons.mozilla.org/tr/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+
 
 ## 2.1) Theme colors 2: If you want to use fixed dark/light theme colors:
 Install these themes to get the correct Safari colors:
