@@ -32,6 +32,7 @@ https://addons.mozilla.org/tr/firefox/addon/adaptive-tab-bar-color/?utm_source=a
 - DarkReader: Firefox theme colors (need Adaptive Tab Bar Color to work) and websites automatically switch to dark mode.
 https://addons.mozilla.org/tr/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
 
+https://user-images.githubusercontent.com/22716602/211825286-d46e1188-3e9c-48d2-baa2-11f3c6273feb.mov
 
 ## 2.1) Theme colors 2: If you want to use fixed dark/light theme colors:
 Install these themes to get the correct Safari colors:
@@ -61,3 +62,7 @@ https://drive.google.com/file/d/1BcFr5fgouuSwQ-e7icRSdUYI-DvcGiG_/view?usp=share
 
 ## This theme is based on Oneline Proton, check it out too <3 :
 https://github.com/newmanls/OnelineProton
+
+
+
+
