@@ -40,15 +40,9 @@ Install these themes to get the correct Safari colors:
 - Dark Mode: https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-dark/
 - Light Mode: https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-light/
 
-Then install "automaticDark" addon to automatically switch between two themes and set it like this:
- https://addons.mozilla.org/tr/firefox/addon/automatic-dark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
-  <img src="https://github.com/denizjcan/Firefox-Safari-15-Theme/blob/main/Resources/autodark.png?raw=true">
-</picture>
-  <img src="https://github.com/denizjcan/Firefox-Safari-15-Theme/blob/main/Resources/dark%20and%20light%20mini.png?raw=true">
-</picture>
-
----
-
+Then install "automaticDark" addon to automatically switch between two themes and set it like this:  
+![autodark 2](https://user-images.githubusercontent.com/22716602/211827397-96150fda-bf33-4259-89e9-46d21a88e74b.png)
+___
 ## 3) How to set-up Safari 15 New Tab Page:
 
 Tutorial Video:
