@@ -26,10 +26,9 @@ ___
 I recommend using "Adaptive Tab Bar Color" add-on in combination with "Darkreader" add-on.
 
 - Adaptive Tab Bar Color: Firefox theme colors change according to the website you are on, as in Safari.  
-https://addons.mozilla.org/tr/firefox/addon/adaptive-tab-bar-color/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
-
-- DarkReader: Firefox theme colors (need Adaptive Tab Bar Color to work) and websites automatically switch to dark mode.
-https://addons.mozilla.org/tr/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search 
+[Click here to download](https://addons.mozilla.org/tr/firefox/addon/adaptive-tab-bar-color/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- DarkReader: Firefox theme colors (need Adaptive Tab Bar Color to work) and websites automatically switch to dark mode.  
+[Click here to download](https://addons.mozilla.org/tr/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) 
 
 https://user-images.githubusercontent.com/22716602/211837027-a72f1369-6695-43f3-90f3-86f310059750.mov
 ## 2.1) Theme colors 2: If you want to use fixed dark/light theme colors:
@@ -38,7 +37,7 @@ Install these themes to get the correct Safari colors:
 - Dark Mode: https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-dark/
 - Light Mode: https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-light/
 
-Then install "automaticDark" addon to automatically switch between two themes and set it like this:  
+Then install "[automaticDark](https://addons.mozilla.org/tr/firefox/addon/automatic-dark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)" addon to automatically switch between two themes and set it like this:  
 ![autodark 2](https://user-images.githubusercontent.com/22716602/211827397-96150fda-bf33-4259-89e9-46d21a88e74b.png)
 ___
 ## 3) How to set-up Safari 15 New Tab Page:
