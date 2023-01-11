@@ -1,4 +1,4 @@
-#  Firefox 'Safari 15' Theme and New Tab Page (Dark & Light Mode)
+#  Firefox 'Safari 15' Theme with Adaptive Colors and New Tab Page
 
 A Firefox theme that emulates the Safari 15 interface and new tab page
 
