@@ -30,7 +30,11 @@ ___
 ### A) ✨[NEW]✨ Adaptive Color Theme (Like Mica Effect):
 Theme that changes color automatically according to your WALLPAPER.
 > Move the contents of the **"Firefox Safari 15 Adaptive"** folder into the chrome folder.  
-**Make the system colors (accent colors) "automatic" in the Windows Settings.**
+
+**Important:**  
+**Make the system colors (accent colors) "automatic" in the Windows Settings.**  
+**Select "System theme - automatic" from Firefox native themes.**
+![Adaptive Colors](https://user-images.githubusercontent.com/22716602/212371510-b4d684e3-e99c-4e4f-adc7-1e01638d3141.gif)
 
 https://user-images.githubusercontent.com/22716602/212356497-d2792ea7-6204-4eab-83bb-7a8cf3484ac6.mov
 
