@@ -27,7 +27,7 @@ ___
 ## Step 2 - Color Themes:
 *You can choose any color theme you want. All of them support Dark/Light mode.*
 
-### A) ✨[NEW]✨ Adaptive Theme (Like Mica Effect):
+### A) ✨[NEW]✨ Adaptive Color Theme (Like Mica Effect):
 Theme that changes color automatically according to your WALLPAPER.
 > Move the contents of the **"Firefox Safari 15 Adaptive"** folder into the chrome folder.  
 **Make the system colors (accent colors) "automatic" in the Windows Settings.**
