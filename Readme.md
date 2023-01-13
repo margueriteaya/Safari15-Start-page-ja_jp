@@ -1,9 +1,9 @@
 #  Firefox 'Safari 15' Theme with Adaptive Colors and New Tab Page
-
-A Firefox theme that emulates the Safari 15 interface and new tab page
+A Firefox theme that emulates the Safari 15 interface and new tab page.
+> ✨ **(NEW)** ✨ Adaptive color theme similar to Mica effect added. Please see "Step 2, Adaptive Theme" for details.
 
 ![safarifirefox(1)](https://user-images.githubusercontent.com/22716602/211835963-e39fee2f-3bda-4bc5-9e27-b54534350edc.png)
-## 1) How to install Safari 15 theme:
+## Step 1 - How to install Safari 15 theme:
 
 #### Download: https://github.com/denizjcan/Firefox-Safari-15-Theme/releases/
 
@@ -15,14 +15,31 @@ A Firefox theme that emulates the Safari 15 interface and new tab page
 	
 	4. Find `Profile Directory` and click `Open Directory`.
 	
-	5. Create a folder called `chrome` and paste `userChrome.css & window` in Firefox Safari 15 Theme folder to this folder.
+	5. Create a folder called `chrome` (without apostrophe).
+
+	6. Paste `userChrome.css & window` in "Firefox Safari 15 Adaptive" or "Firefox Safari 15 Regular" folder to chrome folder.
+	You can check 'Step 2 - color Themes' to choose.
 	
-	6. Restart Firefox.
+	7. Restart Firefox.
 	
 Now follow step 2
 ___
+## Step 2 - Color Themes:
+*You can choose any color theme you want. All of them support Dark/Light mode.*
 
-## 2) Theme colors 1: (Recommended) Enable adaptive theme colors like Safari:
+### A) ✨[NEW]✨ Adaptive Theme (Like Mica Effect):
+Theme that changes color automatically according to your WALLPAPER.
+> Move the contents of the **"Firefox Safari 15 Adaptive"** folder into the chrome folder.  
+**Make the system colors (accent colors) "automatic" in the Windows Settings.**
+
+https://user-images.githubusercontent.com/22716602/212356497-d2792ea7-6204-4eab-83bb-7a8cf3484ac6.mov
+
+*Important: This is not the Mica effect. The Mica effect is incompatible with the close/min/max buttons on the left, so it mimics Mica colors (based on OSX saturation), but the colors are solid.*  
+
+![seperator](https://user-images.githubusercontent.com/22716602/212359084-45bb668a-9ee1-4d9e-8f00-739a9701d36b.svg)
+### B) Adaptive Theme 2 (According to the currently open web page):
+> Move the contents of the **"Firefox Safari 15"** folder into the chrome folder.  
+
 I recommend using "Adaptive Tab Bar Color" add-on in combination with "Darkreader" add-on.
 
 - Adaptive Tab Bar Color: Firefox theme colors change according to the website you are on, as in Safari.  
@@ -31,7 +48,11 @@ I recommend using "Adaptive Tab Bar Color" add-on in combination with "Darkreade
 [Click here to download](https://addons.mozilla.org/tr/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) 
 
 https://user-images.githubusercontent.com/22716602/211837027-a72f1369-6695-43f3-90f3-86f310059750.mov
-## 2.1) Theme colors 2: If you want to use fixed dark/light theme colors:
+
+![seperator](https://user-images.githubusercontent.com/22716602/212359084-45bb668a-9ee1-4d9e-8f00-739a9701d36b.svg)
+### C) Fixed dark/light Theme:
+> Move the contents of the **"Firefox Safari 15"** folder into the chrome folder.  
+
 Install these themes to get the correct Safari colors:
 
 - Dark Mode: https://addons.mozilla.org/en-US/firefox/addon/safari-ventura-dark/
@@ -39,7 +60,9 @@ Install these themes to get the correct Safari colors:
 
 Then install "[automaticDark](https://addons.mozilla.org/tr/firefox/addon/automatic-dark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)" addon to automatically switch between two themes and set it like this:  
 ![autodark 2](https://user-images.githubusercontent.com/22716602/211827397-96150fda-bf33-4259-89e9-46d21a88e74b.png)
+
 ___
+
 ## 3) How to set-up Safari 15 New Tab Page:
 
 Tutorial Video:
@@ -53,7 +76,3 @@ https://drive.google.com/file/d/1BcFr5fgouuSwQ-e7icRSdUYI-DvcGiG_/view?usp=share
 
 ## This theme is based on Oneline Proton, check it out too <3 :
 https://github.com/newmanls/OnelineProton
-
-
-
-
