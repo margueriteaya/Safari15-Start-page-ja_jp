@@ -26,7 +26,7 @@ Now follow step 2
 ___
 ## Step 2 - Color Themes:
 ### A) ✨[NEW]✨ Adaptive Color Theme (Like Mica Effect):
-Theme that changes color automatically according to your WALLPAPER and system light/dark theme.
+Theme that changes color automatically according to your WALLPAPER and system light/dark mode.
 > Move the contents of the **"Firefox Safari 15 Adaptive"** folder into the chrome folder.  
 
 **Important:**  
