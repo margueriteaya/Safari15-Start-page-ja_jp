@@ -30,10 +30,10 @@ Theme that changes color automatically according to your WALLPAPER and system li
 > Move the contents of the **"Firefox Safari 15 Adaptive"** folder into the chrome folder.  
 
 **Important:**  
-**Make the system colors (accent colors) "automatic" in the Windows Settings.**  
+- **Make the system colors (accent colors) "automatic" in the Windows Settings.**  
 <sub>Windows settings>Personalisation>Theme color>select "Automatic"</sub>  
-**Select "System theme - automatic" from Firefox native themes.**  
-<sub>Firefox settings>Add-ons and Themes>Themes>color>select "System theme-automatic"</sub>  
+- **Select "System theme - automatic" from Firefox native themes.**  
+<sub>Firefox settings>Add-ons and Themes>Themes>select "System theme-automatic"</sub>  
 ![Adaptive Colors](https://user-images.githubusercontent.com/22716602/212371510-b4d684e3-e99c-4e4f-adc7-1e01638d3141.gif)
 
 https://user-images.githubusercontent.com/22716602/212356497-d2792ea7-6204-4eab-83bb-7a8cf3484ac6.mov
