@@ -27,7 +27,7 @@ ___
 ## Step 2 - Color Themes:
 ### A) ✨[NEW]✨ Adaptive Color Theme (Like Mica Effect):
 Theme that changes color automatically according to your WALLPAPER and system light/dark mode.
-> Move the contents of the **"Firefox Safari 15 Adaptive"** folder into the chrome folder.  
+> Move the contents of the **"Firefox Safari 15 Wallpaper Adaptive Colors"** folder into the chrome folder.  
 
 **Important:**  
 - **Make the system colors (accent colors) "automatic" in the Windows Settings.**  
@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/22716602/212356497-d2792ea7-6204-4eab-
 
 ![seperator](https://user-images.githubusercontent.com/22716602/212359084-45bb668a-9ee1-4d9e-8f00-739a9701d36b.svg)
 ### B) Adaptive Theme 2 (According to the currently open web page):
-> Move the contents of the **"Firefox Safari 15"** folder into the chrome folder.  
+> Move the contents of the **"Firefox Safari 15 Original Theme"** folder into the chrome folder.  
 
 I recommend using "Adaptive Tab Bar Color" add-on in combination with "Darkreader" add-on.
 
@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/22716602/211837027-a72f1369-6695-43f3-
 
 ![seperator](https://user-images.githubusercontent.com/22716602/212359084-45bb668a-9ee1-4d9e-8f00-739a9701d36b.svg)
 ### C) Fixed dark/light Theme:
-> Move the contents of the **"Firefox Safari 15"** folder into the chrome folder.  
+> Move the contents of the **"Firefox Safari 15 Original Theme"** folder into the chrome folder.  
 
 Install these themes to get the correct Safari colors:
 
